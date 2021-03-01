@@ -1,0 +1,16 @@
+.card{
+	padding:20px;
+	display:flex;
+	box-shadow:0px;
+	border-radius:6px;
+	justify-content:space-between;
+}
+
+.card img { padding:20px;
+	display:flex;
+	box-shadow:0px;
+	border-radius:6px;
+	justify-content:space-between;
+	flex-grow:20px
+
+}
